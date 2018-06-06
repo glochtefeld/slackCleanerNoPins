@@ -1,0 +1,9 @@
+Pre-Instructions:
+1. Go to https://api.slack.com/custom-integrations/legacy-tokens and request a token under "Legacy Token Generator", used for the token.
+
+Basic Instructions:
+1. Run ./install_script.sh
+
+Basic slack-cleaner command:
+
+slack-cleaner --token <TOKEN> --message --channel <CHANNEL> --user "*"

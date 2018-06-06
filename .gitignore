@@ -1,0 +1,26 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+bin/
+lib/
+lib64/
+lib64
+pyvenv.cfg
+share/
+
+*.python-version
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+files/sqliteTest.py
+quickstart.py
+
+
